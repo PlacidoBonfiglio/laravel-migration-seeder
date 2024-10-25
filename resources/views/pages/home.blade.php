@@ -3,5 +3,7 @@
 @section("page-title", "Laravel Migration Seeder")
 
 @section("main-content")
-    <h1>HOMEPAGE</h1>
+    <a href="/trains">
+        <h3 class="text-center pb-5">Cliccami per vedere solo i treni che partono il 2024/10/25</h3>
+    </a>
 @endsection
