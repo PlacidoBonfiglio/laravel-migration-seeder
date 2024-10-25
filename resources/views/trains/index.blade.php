@@ -8,7 +8,9 @@
     <div class="container">
         <div class="row row-cols-5">
 
-
+            <div class="col text-center">
+                CIAO
+            </div>
 
         </div>
     </div>
