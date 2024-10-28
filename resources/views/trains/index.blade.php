@@ -19,6 +19,8 @@
                     <p>Data partenza: <span class="fw-bold">{{$train->Data_di_partenza}}</span></p>
                     <p>Orario partenza: <span class="fw-bold">{{$train->Orario_di_partenza}}</span></p>
                     <p>Orario arrivo: <span class="fw-bold">{{$train->Orario_di_arrivo}}</span></p>
+                    <p>In orario: <span class="fw-bold">{{$train->In_orario}}</span></p>
+                    <p>Cancellato: <span class="fw-bold">{{$train->Cancellato}}</span></p>
                 </div>
             @endforeach
 
