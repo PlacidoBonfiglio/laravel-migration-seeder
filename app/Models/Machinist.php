@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Machinist extends Model
 {
     use HasFactory;
-    protected $table = "machinist";
+    protected $table = "machinists";
 }
