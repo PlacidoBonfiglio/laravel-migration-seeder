@@ -13,6 +13,8 @@
                     <p>ID: <span class="fw-bold">{{$train->id}}</span></p>
                     <p>Azienda: <span class="fw-bold">{{$train->Azienda}}</span></p>
                     <p>Codice Treno: <span class="fw-bold">{{$train->Codice_treno}}</span></p>
+                    <p>Stazione di partenza: <span class="fw-bold">{{$train->Stazione_di_partenza}}</span></p>
+                    <p>Stazione di arrivo: <span class="fw-bold">{{$train->Stazione_di_arrivo}}</span></p>
                     <p>Numero carrozze: <span class="fw-bold">{{$train->Numero_carrozze}}</span></p>
                     <p>Data partenza: <span class="fw-bold">{{$train->Data_di_partenza}}</span></p>
                     <p>Orario partenza: <span class="fw-bold">{{$train->Orario_di_partenza}}</span></p>
